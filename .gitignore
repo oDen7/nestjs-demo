@@ -34,3 +34,5 @@ lerna-debug.log*
 !.vscode/extensions.json
 .history
 yarn.lock
+/.history
+/yarn.lock
