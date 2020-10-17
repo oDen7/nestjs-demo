@@ -1,0 +1,12 @@
+/Users/oden7/Desktop/dotnet/bin/Debug/netcoreapp3.1/dotnet.deps.json
+/Users/oden7/Desktop/dotnet/bin/Debug/netcoreapp3.1/dotnet.runtimeconfig.json
+/Users/oden7/Desktop/dotnet/bin/Debug/netcoreapp3.1/dotnet.runtimeconfig.dev.json
+/Users/oden7/Desktop/dotnet/bin/Debug/netcoreapp3.1/dotnet.dll
+/Users/oden7/Desktop/dotnet/bin/Debug/netcoreapp3.1/dotnet.pdb
+/Users/oden7/Desktop/dotnet/obj/Debug/netcoreapp3.1/dotnet.csprojAssemblyReference.cache
+/Users/oden7/Desktop/dotnet/obj/Debug/netcoreapp3.1/dotnet.csproj.CoreCompileInputs.cache
+/Users/oden7/Desktop/dotnet/obj/Debug/netcoreapp3.1/dotnet.AssemblyInfoInputs.cache
+/Users/oden7/Desktop/dotnet/obj/Debug/netcoreapp3.1/dotnet.AssemblyInfo.cs
+/Users/oden7/Desktop/dotnet/obj/Debug/netcoreapp3.1/dotnet.dll
+/Users/oden7/Desktop/dotnet/obj/Debug/netcoreapp3.1/dotnet.pdb
+/Users/oden7/Desktop/dotnet/obj/Debug/netcoreapp3.1/dotnet.genruntimeconfig.cache
